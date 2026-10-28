@@ -1,0 +1,31 @@
+citHeader("To cite hoodscanR in publications use:")
+
+bibentry(
+    bibtype = "Article",
+    key = "Liu2026hoodscanR",
+    title = "{hoodscanR}: profiling single-cell neighborhoods in spatial transcriptomics data",
+    author = c(
+        person("Ning", "Liu"),
+        person("Jarryd", "Martin"),
+        person(c("Dharmesh", "D"), "Bhuva"),
+        person("Jinjin", "Chen"),
+        person("Mengbo", "Li"),
+        person(c("Samuel", "C"), "Lee"),
+        person("Malvika", "Kharbanda"),
+        person("Jinming", "Cheng"),
+        person("Ahmed", "Mohamed"),
+        person("Arutha", "Kulasinghe"),
+        person("Yunshun", "Chen"),
+        person(c("Chin", "Wee"), "Tan"),
+        person("Fuyi", "Li"),
+        person(c("Jose", "M"), "Polo"),
+        person(c("Melissa", "J"), "Davis")
+    ),
+    journal = "Bioinformatics",
+    year = "2026",
+    volume = "42",
+    number = "8",
+    pages = "btag609",
+    doi = "10.1093/bioinformatics/btag609",
+    url = "https://academic.oup.com/bioinformatics/article/42/8/btag609/8761375"
+)

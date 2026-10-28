@@ -22,5 +22,17 @@ library(devtools)
 devtools::install_github("DavisLaboratory/hoodscanR")
 ```
 
+## Citation
 
+If you use hoodscanR in your research, please cite:
+
+Liu N, Martin J, Bhuva DD, et al. (2026). hoodscanR: profiling single-cell
+neighborhoods in spatial transcriptomics data. *Bioinformatics*, 42(8), btag609.
+[doi:10.1093/bioinformatics/btag609](https://doi.org/10.1093/bioinformatics/btag609).
+
+To obtain the citation and BibTeX entry in R, run:
+
+```r
+citation("hoodscanR")
+```
 

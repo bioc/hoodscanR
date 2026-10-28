@@ -1,3 +1,7 @@
+# hoodscanR 1.11.1
+
+Add the published hoodscanR paper as the preferred package citation.
+
 # hoodscanR 1.1.2
 
 Fix bugs in test with R4.4
